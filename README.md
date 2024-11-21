@@ -2,20 +2,16 @@
 
 ### Name
 
-_Write your name here_
-
+Madelyn ALmgren 
 ### Introspection
 
-_Describe the challenges you faced and what you learned_
-
+The challanges I faced were applying the newly learned material into my project. 
 ### Dataset
 
-_Which dataset did you choose for the classification task?_
-
+I chose the SMSSpanCollection
 ### Resources
 
-_List the people and resources you used to complete the project_
-
+Max Petite, Arvaneh Jamil 
 
 ### *DO NOT EDIT BELOW THIS LINE*
 ---
